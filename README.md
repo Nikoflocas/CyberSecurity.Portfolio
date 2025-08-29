@@ -1,5 +1,5 @@
 # Hello, I'm Nikolas Flocas
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/nikoflocas1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 
@@ -44,9 +44,9 @@ My journey in Management Information Systems has led me to develop a passion for
 
 ## Certifications
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Forg%2Ffortinet%2Fbadge%2Ffortinet-fortigate-7-2-administrator&psig=AOvVaw1fhEYs2yi6zWcV63qUbIr&ust=1756577746842000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCLi40pjQsI8DFQAAAAAdAAAAABAE" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
+<img src="https:
 
 ## Projects
 - Detection Lab
