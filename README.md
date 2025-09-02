@@ -48,6 +48,9 @@ My journey in Management Information Systems has led me to develop a passion for
 <img src="https://img.shields.io/badge/Fortinet%20Administrator%20Certified-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
 <img src="https://img.shields.io/badge/Fortinet%20Operator%20Certified-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
 <img src="https://img.shields.io/badge/Cisco%20CyberOps%20Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Technical%20Support%20Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco%20Cyber%20Threat%20Management%20Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Fortinet%20Certified%20Associate%20Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
 
 
 
