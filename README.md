@@ -43,8 +43,7 @@ My journey in Management Information Systems has led me to develop a passion for
 </div>
 
 ## Certifications
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
 <img src="https:
 
