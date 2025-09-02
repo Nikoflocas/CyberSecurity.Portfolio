@@ -40,6 +40,8 @@ My journey in Management Information Systems has led me to develop a passion for
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-3595F9?&style=for-the-badge&logo=wazuh&logoColor=white" />
+
 
 </div>
 
