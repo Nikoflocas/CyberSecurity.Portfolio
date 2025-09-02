@@ -45,7 +45,9 @@ My journey in Management Information Systems has led me to develop a passion for
 ## Certifications
 <img src="https://img.shields.io/badge/AWS%20Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
-<img src="https:
+<img src="https://img.shields.io/badge/Fortinet%20Administrator%20Certified-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+
+
 
 ## Projects
 - Detection Lab
