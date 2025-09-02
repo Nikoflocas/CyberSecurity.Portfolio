@@ -15,9 +15,10 @@ My journey in Management Information Systems has led me to develop a passion for
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network Traffic Monitoring | <a href="https://google.com">Detection Lab</a>|
+| Tracking Malicious Threats using Splunk    | SOC Sim Lab|
+| Set up VMware and Software on personal PC                             | Home SOC Lab
+
 
 ## Tools
 
